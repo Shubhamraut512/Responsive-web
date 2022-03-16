@@ -1,0 +1,51 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+.p1{
+    border: 1px solid white;
+}
+.l1{
+    color:red;
+    background-color: white;
+}
+.nav1{
+ background-color: black;
+}
+.carousel-inner img {
+    width: 100%;
+    height: auto;
+}
+
+.ti{
+    border-bottom: 1px solid grey;
+}
+.s{
+    background-color: black;
+}
+.nbar{
+    color: white !important;
+    text-decoration: none !important;
+    transition: 0.5s all;
+}
+.nbar:hover{
+    color: cyan !important;
+}
+.c{
+    padding-left: 40%;
+}
+.l{
+ width: 50%;
+ height: auto;
+ padding-left: 5%;
+ margin-left: 20%;
+ margin-top: 10%;
+}
+.shubham{
+    background-color: black;
+}
+.lh{
+    line-height: 0px;
+}
